@@ -3,8 +3,8 @@
 
 > **Quick Start Guide:**
 > 
-> - If you want to download the executable, download ZIP (https://github.com/EasyDice/EasyDice/archive/master.zip) and launch it from there.
-> - If you want to compile the source, download ZIP and compile it in 
+> - If you want to download the standalone executable, download it from https://github.com/EasyDice/EasyDice/blob/master/EasyDice.exe?raw=true or download ZIP and launch it from there.
+> - If you want to compile the source, download ZIP (https://github.com/EasyDice/EasyDice/archive/master.zip) and compile it in 
 Microsoft Visual Studio (could be complicated and troublesome if you don't know what you are doing)
 
 

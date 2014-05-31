@@ -1,7 +1,11 @@
 ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Space](http://s9.postimg.org/a6u7hrql7/space.png) ![Dice](http://s28.postimg.org/74k0t526x/dice.png)EasyDice 
 =========
 
-
+> **Quick Start Guide:**
+> 
+> - If you want to download the executable, right click on EasyDice.exe and save as or download ZIP and launch from there.
+> - If you want to compile the source, download ZIP and compile it in 
+Microsoft Visual Studio (could be complicated and troublesome if you don't know what you are doing)
 
 
 EasyDice is a bot for http://www.just-dice.com

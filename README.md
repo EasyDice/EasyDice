@@ -3,7 +3,7 @@
 
 > **Quick Start Guide:**
 > 
-> - If you want to download the executable, right click on EasyDice.exe and save as or download ZIP and launch from there.
+> - If you want to download the executable, download ZIP (https://github.com/EasyDice/EasyDice/archive/master.zip) and launch it from there.
 > - If you want to compile the source, download ZIP and compile it in 
 Microsoft Visual Studio (could be complicated and troublesome if you don't know what you are doing)
 

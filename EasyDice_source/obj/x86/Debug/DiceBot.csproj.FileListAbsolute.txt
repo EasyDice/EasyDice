@@ -1,0 +1,60 @@
+c:\users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\bin\Debug\easydice.exe
+c:\users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\bin\Debug\easydice.pdb
+c:\users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\obj\x86\Debug\easydice.Properties.Resources.resources
+c:\users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\obj\x86\Debug\easydice.csproj.GenerateResource.Cache
+c:\users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\obj\x86\Debug\easydice.exe
+c:\users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\obj\x86\Debug\easydice.pdb
+C:\Users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\obj\x86\Debug\easydice.ceasydice.resources
+C:\Users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\obj\x86\Debug\easydice.cLogin.resources
+C:\Users\seunt_000\documents\visual studio 2010\Projects\easydice\easydice\obj\x86\Debug\easydice.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.exe
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.pdb
+C:\Users\admin\Dropbox\easydice\easydice\bin\Debug\easydice.exe
+C:\Users\admin\Dropbox\easydice\easydice\bin\Debug\easydice.pdb
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.About.resources
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.ceasydice.resources
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.cLogin.resources
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.Properties.Resources.resources
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.cSettings.resources
+D:\DropBox\Dropbox\easydice\easydice\bin\Debug\easydice.exe
+D:\DropBox\Dropbox\easydice\easydice\bin\Debug\easydice.pdb
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.About.resources
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.ceasydice.resources
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.cLogin.resources
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.Properties.Resources.resources
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.cSettings.resources
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.StreakTable.resources
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.csproj.GenerateResource.Cache
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.exe
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.pdb
+D:\DropBox\Dropbox\easydice\easydice\obj\x86\Debug\easydice.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\easydice\easydice\obj\x86\Debug\easydice.StreakTable.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.exe
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.pdb
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\bin\Debug\easydice.exe
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\bin\Debug\easydice.pdb
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.csprojResolveAssemblyReference.cache
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.About.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.ceasydice.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.cLogin.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.Properties.Resources.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.cSettings.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.StreakTable.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Debug\easydice.csproj.GenerateResource.Cache
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.exe
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.pdb
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\bin\Debug\easydice.exe
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\bin\Debug\easydice.pdb
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.csprojResolveAssemblyReference.cache
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.About.resources
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.ceasydice.resources
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.cLogin.resources
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.Properties.Resources.resources
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.cSettings.resources
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.StreakTable.resources
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.csproj.GenerateResource.Cache
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.csproj.ResolveComReference.cache
+C:\Users\seunt_000\Documents\GitHub\souceforge\easydice\easydice\obj\x86\Debug\easydice.Graph.resources

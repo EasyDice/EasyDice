@@ -1,0 +1,12 @@
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\bin\Release\easydice.exe
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\bin\Release\easydice.pdb
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\bin\Release\Skybound.Gecko.dll
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.About.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.ceasydice.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.cLogin.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.Properties.Resources.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.cSettings.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.StreakTable.resources
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.csproj.GenerateResource.Cache
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.exe
+C:\Users\seunt_000\Documents\GitHub\easydice\easydice\obj\x86\Release\easydice.pdb
